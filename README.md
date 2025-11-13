@@ -135,8 +135,3 @@ Real-time API integration for live PhonePe data
 Predictive modeling for transaction growth trends
 Automated data refresh and dashboard updates
 
-🧾 Author
-
-👨‍💻 Dilip S
-B.E Computer Science and Engineering
-https://www.linkedin.com/in/dilip-s-526a001a9/
